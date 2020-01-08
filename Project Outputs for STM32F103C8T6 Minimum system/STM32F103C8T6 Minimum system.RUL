@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Working backup\2.PCB Design\画板\1.单片机最小系统\STM32F103C8T6 Minimum system\STM32F103C8T6 Minimum system.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

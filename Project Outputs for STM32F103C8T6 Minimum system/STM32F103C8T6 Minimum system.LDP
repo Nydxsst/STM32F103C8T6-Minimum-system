@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Working backup\2.PCB Design\画板\1.单片机最小系统\STM32F103C8T6 Minimum system\STM32F103C8T6 Minimum system.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=stm32f103c8t6 minimum system-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=stm32f103c8t6 minimum system-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: STM32F103C8T6 Minimum system.PcbDoc   2020/1/4  18:07:42
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : STM32F103C8T6 Minimum system-RoundHoles.TXT
+ASCII SlotHoles File : STM32F103C8T6 Minimum system-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             83        PTH        15.12inch (384.12mm)
+T2      15mil (0.381mm)                                           Round             2         PTH        0.30inch (7.65mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.87inch (47.51mm)
+T4      25mil (0.635mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T5      26mil (0.66mm)                                            Round             2         PTH        0.23inch (5.78mm)
+T6      35mil (0.9mm)                                             Round             59        PTH        10.04inch (255.05mm)
+T7      87mil (2.2mm)                                             Round             6         PTH        7.25inch (184.21mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              157
+
+Total Processing Time (hh:mm:ss) : 00:00:00
